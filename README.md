@@ -7,5 +7,7 @@ Users can write, post, and view blogs.
 
 ## Tech Stack
 Frontend: React.js 
+
 Backend: Node.js with Express.js 
+
 Database: MongoDB 
